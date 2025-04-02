@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "name": "amit shah",
+        "email": "amitshah@gmail.com"
+    },
+    {
+        "email": "india@gmail.com",
+        "password": "$2b$10$eXkiIjKdOju.vtk7H0Vjv.Kg4cjVEsGEaS70QeL2oYEgGIwxwYJSG",
+        "username": "india",
+        "id": 2
+    },
+    {
+        "email": "dhoni@gmail.com",
+        "password": "$2b$10$ojo.7x1ezvaw3hzKPTz9cOn/N.iaTip95Cc7XQnxaaIFSTGZeE57G",
+        "username": "ms dhoni",
+        "id": 3
+    }
+]
